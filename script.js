@@ -13,6 +13,6 @@ function toggleMode() {
   } else {
     // se tiver darck mode, manter a imagem normal
     img.setAttribute("src", "./assets/Avatar.png")
-    img.setAttribute("alt", "foto de perfil 1")
+    img.setAttribute("alt", "foto de perfil 1") 
   }
 }
